@@ -1,4 +1,12 @@
-# About Me
+<details>
+ 
+ 
+ <summary>:raising_hand_man: This is about me! </summary>
+ 
+ 
+# About Me  <br>
+ 
+ 
 > Languages I know:
  - <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
  - <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
@@ -18,3 +26,10 @@
 - My personal website for designs / having fun
 > *My Server*:
 > > ![My Server](https://discordapp.com/api/guilds/877652566832447498/widget.png?style=banner4)
+</details>
+
+<details>
+ <summary>:zap: GitHub:tm: Stats </summary>
+  <img align="left" alt="rxvan's GitHub Stats" src="https://github-readme-stats-two-ochre.vercel.app/api?username=rxvan&show_icons=true&hide_border=true" />
+</details>
+

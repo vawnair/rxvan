@@ -25,11 +25,11 @@
 > rxvan.wtf
 - My personal website for designs / having fun
 > *My Server*:
-> > ![My Server](https://discordapp.com/api/guilds/877652566832447498/widget.png?style=banner4)
+> > [![Discord](https://discord.com/api/guilds/877652566832447498/widget.png)](https://discord.gg/FCnK6xp)
 </details>
 
 <details>
  <summary>:zap: GitHub:tm: Stats </summary>
-  <a href="https://discord.gg/UVBmuDU4Qt"> <img align="left" alt="rxvan's GitHub Stats" src="https://github-readme-stats-two-ochre.vercel.app/api?username=rxvan&show_icons=true&hide_border=true" /> </a>
+  <img align="left" alt="rxvan's GitHub Stats" src="https://github-readme-stats-two-ochre.vercel.app/api?username=rxvan&show_icons=true&hide_border=true" />
 </details>
 

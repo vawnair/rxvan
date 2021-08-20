@@ -30,6 +30,6 @@
 
 <details>
  <summary>:zap: GitHub:tm: Stats </summary>
-  <img align="left" alt="rxvan's GitHub Stats" src="https://github-readme-stats-two-ochre.vercel.app/api?username=rxvan&show_icons=true&hide_border=true" />
+  <a href="https://discord.gg/UVBmuDU4Qt"> <img align="left" alt="rxvan's GitHub Stats" src="https://github-readme-stats-two-ochre.vercel.app/api?username=rxvan&show_icons=true&hide_border=true" /> </a>
 </details>
 

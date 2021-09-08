@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rxvan" alt="rxvan" /></a> </p>
 
-- 🔭 I’m currently working on [rxvan.wtf](https://rxvan.wtf)
+- 🔭 I’m currently working on [rxvan.wtf](http://rxvan.wtf)
 
 - 🌱 I’m currently learning **advanced c/c++ usage, HTML Frontend + some backend things, getting a better understanding of databasing and data management**
 
-- 👨‍💻 All of my projects are available at [https://rxvan.wtf](https://rxvan.wtf)
+- 👨‍💻 All of my projects are available at [https://rxvan.wtf](http://rxvan.wtf)
 
 - 📫 How to reach me **rxvan@rxvan.wtf**
 

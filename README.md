@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://twilight.sh](https://twilight.sh)
 
-- 📫 How to reach me **rxvan@rxvan.wtf | rxvan#7093**
+- 📫 How to reach me **rxvan@rxvan.wtf | rxvan#7093 | [Discord Server](https://discord.twilight.sh)**
 
 - ⚡ Fun fact **I make discord bots in my free time**
 
